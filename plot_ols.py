@@ -69,4 +69,3 @@ plt.yticks(())
 
 plt.show()
 
-![image](https://github.com/simon870630/HW1/blob/master/Figure_1.png)
