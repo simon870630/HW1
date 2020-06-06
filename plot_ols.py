@@ -68,3 +68,5 @@ plt.xticks(())
 plt.yticks(())
 
 plt.show()
+
+Figure_1.png
